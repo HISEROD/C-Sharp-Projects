@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Repos\\GasGasGas\\GasGasGas\\GasGasGas.csproj",
+      "projectUniqueName": "D:\\Programming\\Repos\\C-Sharp-Projects\\GasGasGas\\GasGasGas\\GasGasGas.csproj",
       "projectName": "GasGasGas",
-      "projectPath": "D:\\Programming\\Repos\\GasGasGas\\GasGasGas\\GasGasGas.csproj",
+      "projectPath": "D:\\Programming\\Repos\\C-Sharp-Projects\\GasGasGas\\GasGasGas\\GasGasGas.csproj",
       "packagesPath": "C:\\Users\\Hiserod\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Repos\\GasGasGas\\GasGasGas\\obj\\",
+      "outputPath": "D:\\Programming\\Repos\\C-Sharp-Projects\\GasGasGas\\GasGasGas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
