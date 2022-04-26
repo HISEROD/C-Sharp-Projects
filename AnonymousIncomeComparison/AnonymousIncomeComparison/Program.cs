@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AnonymouseIncomeComparison
+namespace AnonymousIncomeComparison
 {
     class Program
     {

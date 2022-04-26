@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A3C8984F-6696-40CE-8CA7-8C5DC74C6AA7}</ProjectGuid>
+    <ProjectGuid>{AFBC6E7C-6306-4A26-8282-5CCE281FED86}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AnonymouseIncomeComparison</RootNamespace>
-    <AssemblyName>AnonymouseIncomeComparison</AssemblyName>
+    <RootNamespace>InsuranceApprovalApp</RootNamespace>
+    <AssemblyName>InsuranceApprovalApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
