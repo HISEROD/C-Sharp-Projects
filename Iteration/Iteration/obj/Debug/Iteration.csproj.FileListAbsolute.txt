@@ -1,0 +1,6 @@
+D:\Programming\Repos\C-Sharp-Projects\Iteration\Iteration\bin\Debug\Iteration.exe.config
+D:\Programming\Repos\C-Sharp-Projects\Iteration\Iteration\bin\Debug\Iteration.exe
+D:\Programming\Repos\C-Sharp-Projects\Iteration\Iteration\bin\Debug\Iteration.pdb
+D:\Programming\Repos\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.exe
+D:\Programming\Repos\C-Sharp-Projects\Iteration\Iteration\obj\Debug\Iteration.pdb
