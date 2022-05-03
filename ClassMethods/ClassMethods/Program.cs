@@ -26,7 +26,8 @@ namespace ClassMethods
                 Console.WriteLine(Operations.NthLucas(i));
             }
 
-            Console.WriteLine("\ninput a number greater than zero to find the nth prime, Fibonacci, and Lucas numbers:");
+            // accept user input
+            Console.WriteLine("\ninput a number to find the nth prime, Fibonacci, and Lucas numbers:");
             int n = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine(Operations.NthPrime(n));

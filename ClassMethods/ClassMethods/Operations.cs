@@ -60,16 +60,16 @@ namespace ClassMethods
         public static int NthFibonacci(int n)
         {
             // formula for the nth Fibonacci number
-            return Convert.ToInt32((Math.Pow(PHI, Convert.ToDouble(n)) - Math.Pow(PSI, Convert.ToDouble(n))) / ROOT5);
-            // formula is (phi**n - psi**n) / sqrt(5)
+            return Convert.ToInt32((Math.Pow(PHI, Convert.ToDouble(n) + 1) - Math.Pow(PSI, Convert.ToDouble(n) + 1)) / ROOT5);
+            // formula is (phi**(n + 1) - psi**(n + 1)) / sqrt(5)
         }
 
         // calculate the nth Lucas number
         public static int NthLucas(int n)
         {
             // formula for the nth Lucas number
-            return Convert.ToInt32(Math.Pow(PHI, Convert.ToDouble(n)) + Math.Pow(PSI, Convert.ToDouble(n)));
-            // formula is phi**n + psi**n
+            return Convert.ToInt32(Math.Pow(PHI, Convert.ToDouble(n) + 1) + Math.Pow(PSI, Convert.ToDouble(n) + 1));
+            // formula is phi**(n + 1) + psi**(n + 1)
         }
         // create math constants for NthFibonacci and NthLucas
         private static readonly double
