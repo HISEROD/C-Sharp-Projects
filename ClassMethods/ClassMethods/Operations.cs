@@ -57,19 +57,19 @@ namespace ClassMethods
         }
 
         // calculate the nth Fibonacci number
-        public static int NthFibonacci(int n)
+        public static ulong NthFibonacci(int n)
         {
             // formula for the nth Fibonacci number
-            return Convert.ToInt32((Math.Pow(PHI, Convert.ToDouble(n) + 1) - Math.Pow(PSI, Convert.ToDouble(n) + 1)) / ROOT5);
-            // formula is (phi**(n + 1) - psi**(n + 1)) / sqrt(5)
+            return Convert.ToUInt64((Math.Pow(PHI, Convert.ToDouble(n) - 1) - Math.Pow(PSI, Convert.ToDouble(n) - 1)) / ROOT5);
+            // formula is (phi**(n - 1) - psi**(n - 1)) / sqrt(5)
         }
 
         // calculate the nth Lucas number
-        public static int NthLucas(int n)
+        public static ulong NthLucas(int n)
         {
             // formula for the nth Lucas number
-            return Convert.ToInt32(Math.Pow(PHI, Convert.ToDouble(n) + 1) + Math.Pow(PSI, Convert.ToDouble(n) + 1));
-            // formula is phi**(n + 1) + psi**(n + 1)
+            return Convert.ToUInt64(Math.Pow(PHI, Convert.ToDouble(n) - 1) + Math.Pow(PSI, Convert.ToDouble(n) - 1));
+            // formula is phi**(n - 1) + psi**(n - 1)
         }
         // create math constants for NthFibonacci and NthLucas
         private static readonly double

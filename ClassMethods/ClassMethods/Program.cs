@@ -12,16 +12,16 @@ namespace ClassMethods
         {
             Console.WriteLine("This is the 1,000,000th prime number!");
             // calculate the 1,000,000th prime!
-            Console.WriteLine(Operations.NthPrime(1000000));
+            Console.WriteLine(Operations.NthPrime(1000));
             Console.WriteLine("\nThese are the first 10 Fibonacci numbers:");
             // calculate 10 Fibonacci numbers
-            for (int i = 0; i < 10; i++)
+            for (int i = 1; i <= 10; i++)
             {
                 Console.WriteLine(Operations.NthFibonacci(i));
             }
             Console.WriteLine("\nThese are the first 10 Lucas numbers:");
             // calculate 10 Lucas numbers
-            for (int i = 0; i < 10; i++)
+            for (int i = 1; i <= 10; i++)
             {
                 Console.WriteLine(Operations.NthLucas(i));
             }
