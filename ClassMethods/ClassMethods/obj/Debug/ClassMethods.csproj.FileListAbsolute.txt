@@ -1,0 +1,7 @@
+D:\Programming\Repos\C-Sharp-Projects\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe.config
+D:\Programming\Repos\C-Sharp-Projects\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe
+D:\Programming\Repos\C-Sharp-Projects\ClassMethods\ClassMethods\bin\Debug\ClassMethods.pdb
+D:\Programming\Repos\C-Sharp-Projects\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.AssemblyReference.cache
+D:\Programming\Repos\C-Sharp-Projects\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\ClassMethods\ClassMethods\obj\Debug\ClassMethods.exe
+D:\Programming\Repos\C-Sharp-Projects\ClassMethods\ClassMethods\obj\Debug\ClassMethods.pdb
