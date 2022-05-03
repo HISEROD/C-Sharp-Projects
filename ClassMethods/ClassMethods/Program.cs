@@ -25,6 +25,14 @@ namespace ClassMethods
             {
                 Console.WriteLine(Operations.NthLucas(i));
             }
+
+            Console.WriteLine("\ninput a number greater than zero to find the nth prime, Fibonacci, and Lucas numbers:");
+            int n = Console.ReadLine();
+
+            Console.WriteLine(Operations.NthPrime(n));
+            Console.WriteLine(Operations.NthFibonacci(n));
+            Console.WriteLine(Operations.NthLucas(n));
+
             // Allow user to dig through the ditches and burn through the
             // witches and slam in the back or their Dragula without the
             // need to worry about the terminal closing too quickly.
