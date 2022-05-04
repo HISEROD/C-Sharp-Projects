@@ -1,0 +1,7 @@
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Release\TwentyOne.exe.config
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Release\TwentyOne.exe
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Release\TwentyOne.pdb
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Release\TwentyOne.csproj.AssemblyReference.cache
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Release\TwentyOne.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Release\TwentyOne.exe
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Release\TwentyOne.pdb
