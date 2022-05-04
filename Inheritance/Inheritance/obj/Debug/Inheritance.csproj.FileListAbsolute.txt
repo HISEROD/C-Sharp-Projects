@@ -1,0 +1,7 @@
+D:\Programming\Repos\C-Sharp-Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Programming\Repos\C-Sharp-Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Programming\Repos\C-Sharp-Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\Programming\Repos\C-Sharp-Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Programming\Repos\C-Sharp-Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Programming\Repos\C-Sharp-Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
