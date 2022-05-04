@@ -1,0 +1,6 @@
+D:\Programming\Repos\C-Sharp-Projects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+D:\Programming\Repos\C-Sharp-Projects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+D:\Programming\Repos\C-Sharp-Projects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+D:\Programming\Repos\C-Sharp-Projects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+D:\Programming\Repos\C-Sharp-Projects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
