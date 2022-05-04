@@ -1,0 +1,7 @@
+D:\Programming\Repos\C-Sharp-Projects\p285Assignment\p285Assignment\bin\Debug\p285Assignment.exe.config
+D:\Programming\Repos\C-Sharp-Projects\p285Assignment\p285Assignment\bin\Debug\p285Assignment.exe
+D:\Programming\Repos\C-Sharp-Projects\p285Assignment\p285Assignment\bin\Debug\p285Assignment.pdb
+D:\Programming\Repos\C-Sharp-Projects\p285Assignment\p285Assignment\obj\Debug\p285Assignment.csproj.AssemblyReference.cache
+D:\Programming\Repos\C-Sharp-Projects\p285Assignment\p285Assignment\obj\Debug\p285Assignment.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\p285Assignment\p285Assignment\obj\Debug\p285Assignment.exe
+D:\Programming\Repos\C-Sharp-Projects\p285Assignment\p285Assignment\obj\Debug\p285Assignment.pdb
