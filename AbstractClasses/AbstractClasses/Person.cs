@@ -12,9 +12,9 @@ namespace AbstractClasses
         public string LastName { get; set; }
 
         // create an default implementation of SayName
-        public virtual void SayName()
-        {
-            Console.WriteLine("Name: {0} {1}", FirstName, LastName);
-        }
+        public abstract void SayName();
+        //{
+        //    Console.WriteLine("Name: {0} {1}", FirstName, LastName);
+        //}
     }
 }
