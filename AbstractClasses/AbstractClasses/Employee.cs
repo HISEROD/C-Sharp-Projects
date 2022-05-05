@@ -16,7 +16,7 @@ namespace AbstractClasses
         // create a Quit method to satisfy the requirements of IQuittable
         public void Quit()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("{0} {1} has quit!", FirstName, LastName);
         }
     }
 }

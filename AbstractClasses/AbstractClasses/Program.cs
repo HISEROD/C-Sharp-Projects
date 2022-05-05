@@ -16,9 +16,12 @@ namespace AbstractClasses
             employee.SayName();
 
             // use polymorphism to instantiate an IQuittable object with the Employee constructor
-            IQuittable quittable = new Employee();
+            IQuittable quittable = new Employee() { FirstName = "Sample", LastName = "Student" };
 
+            // call the Quit method of the Employee
             quittable.Quit();
+
+            Console.Read();
         }
     }
 }
