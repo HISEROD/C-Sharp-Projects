@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace AbstractClasses
 {
-    class Employee : Person, IQuittable
+    class Employee<T> : Person, IQuittable
     {
         public int Id { get; set; }
+        public List<T> Things { get; set; }
 
         public override void SayName()
         {
@@ -21,11 +22,11 @@ namespace AbstractClasses
         }
 
         // create equal and not-equal operator overloads that compare employee ID's
-        public static bool operator ==(Employee employee1, Employee employee2)
+        public static bool operator ==(Employee<T> employee1, Employee<T> employee2)
         {
             return employee1.Id == employee2.Id;
         }
-        public static bool operator !=(Employee employee1, Employee employee2)
+        public static bool operator !=(Employee<T> employee1, Employee<T> employee2)
         {
             return employee1.Id != employee2.Id;
         }

@@ -1,0 +1,7 @@
+D:\Programming\Repos\C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
+D:\Programming\Repos\C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
+D:\Programming\Repos\C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
+D:\Programming\Repos\C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
+D:\Programming\Repos\C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb
+D:\Programming\Repos\C-Sharp-Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.AssemblyReference.cache

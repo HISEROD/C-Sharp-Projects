@@ -8,12 +8,35 @@ namespace TwentyOne
 {
     public class Card
     {
-        public Card(string suit, string rank)
+        public Card(Suit suit, Rank rank)
         {
             Suit = suit;
             Rank = rank;
         }
-        public string Suit { get; set; }
-        public string Rank { get; set; }
+        public Suit Suit { get; set; }
+        public Rank Rank { get; set; }
+    }
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
+    }
+    public enum Rank
+    {
+        Ace,
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King
     }
 }

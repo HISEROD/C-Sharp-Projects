@@ -11,22 +11,35 @@ namespace AbstractClasses
         static void Main(string[] args)
         {
             // instantiate employee
-            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student", Id = 438 };
-            // call superclass method
-            employee.SayName();
+            Employee<string> employee = new Employee<string>() { FirstName = "Sample", LastName = "Student", Id = 438 };
+            employee.Things = new List<string>() { "hammer", "nails", "tapemeasure" };
 
-            // use polymorphism to instantiate an IQuittable object with the Employee constructor
+            Employee<int> employee2 = new Employee<int>() { FirstName = "Sample", LastName = "Student", Id = 438 };
+            employee2.Things = new List<int>() { 1, 2, 3, 4 };
+
+            // print employees' things to the console
+            foreach (string str in employee.Things)
+            {
+                Console.WriteLine(str);
+            }
+            foreach (int integer in employee2.Things)
+            {
+                Console.WriteLine(integer);
+            }
+
+
+            //employee.SayName();
+
             //IQuittable quittable = new Employee() { FirstName = "Sample", LastName = "Student" };
 
-            // call the Quit method of the Employee
             //quittable.Quit();
 
-            // instantiate another employee for == operator test
-            Employee employee2 = new Employee() { FirstName = "Bob", LastName = "Bobson", Id = 324 };
+            //Employee employee2 = new Employee() { FirstName = "Bob", LastName = "Bobson", Id = 324 };
 
-            // compare the two employees
-            Console.WriteLine("employee == employee2: {0}", employee == employee2);
-            Console.WriteLine("employee != employee2: {0}", employee != employee2);
+            //Console.WriteLine("employee == employee2: {0}", employee == employee2);
+            //Console.WriteLine("employee != employee2: {0}", employee != employee2);
+
+
 
             Console.Read();
         }
