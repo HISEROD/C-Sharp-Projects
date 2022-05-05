@@ -15,7 +15,10 @@ namespace AbstractClasses
             // call superclass method
             employee.SayName();
 
-            Console.Read();
+            // use polymorphism to instantiate an IQuittable object with the Employee constructor
+            IQuittable quittable = new Employee();
+
+            quittable.Quit();
         }
     }
 }
