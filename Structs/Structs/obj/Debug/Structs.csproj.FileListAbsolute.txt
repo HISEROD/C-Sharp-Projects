@@ -1,0 +1,7 @@
+D:\Programming\Repos\C-Sharp-Projects\Structs\Structs\bin\Debug\Structs.exe.config
+D:\Programming\Repos\C-Sharp-Projects\Structs\Structs\bin\Debug\Structs.exe
+D:\Programming\Repos\C-Sharp-Projects\Structs\Structs\bin\Debug\Structs.pdb
+D:\Programming\Repos\C-Sharp-Projects\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+D:\Programming\Repos\C-Sharp-Projects\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\Structs\Structs\obj\Debug\Structs.exe
+D:\Programming\Repos\C-Sharp-Projects\Structs\Structs\obj\Debug\Structs.pdb
