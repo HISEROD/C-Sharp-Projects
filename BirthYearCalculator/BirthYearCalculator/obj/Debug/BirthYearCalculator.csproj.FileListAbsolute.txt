@@ -1,0 +1,7 @@
+D:\Programming\Repos\C-Sharp-Projects\BirthYearCalculator\BirthYearCalculator\bin\Debug\BirthYearCalculator.exe.config
+D:\Programming\Repos\C-Sharp-Projects\BirthYearCalculator\BirthYearCalculator\bin\Debug\BirthYearCalculator.exe
+D:\Programming\Repos\C-Sharp-Projects\BirthYearCalculator\BirthYearCalculator\bin\Debug\BirthYearCalculator.pdb
+D:\Programming\Repos\C-Sharp-Projects\BirthYearCalculator\BirthYearCalculator\obj\Debug\BirthYearCalculator.csproj.AssemblyReference.cache
+D:\Programming\Repos\C-Sharp-Projects\BirthYearCalculator\BirthYearCalculator\obj\Debug\BirthYearCalculator.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\BirthYearCalculator\BirthYearCalculator\obj\Debug\BirthYearCalculator.exe
+D:\Programming\Repos\C-Sharp-Projects\BirthYearCalculator\BirthYearCalculator\obj\Debug\BirthYearCalculator.pdb
