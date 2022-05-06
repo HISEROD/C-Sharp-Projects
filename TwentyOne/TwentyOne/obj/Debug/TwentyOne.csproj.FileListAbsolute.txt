@@ -5,3 +5,6 @@ D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.cs
 D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+D:\Programming\Repos\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
