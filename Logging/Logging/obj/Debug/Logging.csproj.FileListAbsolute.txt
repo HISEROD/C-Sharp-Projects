@@ -1,0 +1,7 @@
+D:\Programming\Repos\C-Sharp-Projects\Logging\Logging\obj\Debug\Logging.csproj.AssemblyReference.cache
+D:\Programming\Repos\C-Sharp-Projects\Logging\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\Logging\Logging\bin\Debug\Logging.exe.config
+D:\Programming\Repos\C-Sharp-Projects\Logging\Logging\bin\Debug\Logging.exe
+D:\Programming\Repos\C-Sharp-Projects\Logging\Logging\bin\Debug\Logging.pdb
+D:\Programming\Repos\C-Sharp-Projects\Logging\Logging\obj\Debug\Logging.exe
+D:\Programming\Repos\C-Sharp-Projects\Logging\Logging\obj\Debug\Logging.pdb
