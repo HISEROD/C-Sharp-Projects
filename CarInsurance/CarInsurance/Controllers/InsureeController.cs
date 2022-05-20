@@ -142,7 +142,7 @@ namespace CarInsurance.Controllers
                 age--;
 
             if (age <= 18) quote += 100;
-            if (age <= 19 && age <= 25) quote += 50;
+            if (19 <= age && age <= 25) quote += 50;
             if (age >= 26) quote += 25;
             if (insuree.CarYear < 2000) quote += 25;
             if (insuree.CarYear > 2015) quote += 25;

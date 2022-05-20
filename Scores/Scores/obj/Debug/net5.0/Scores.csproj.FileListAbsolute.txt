@@ -1,0 +1,16 @@
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.exe
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.deps.json
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.runtimeconfig.json
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.runtimeconfig.dev.json
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.dll
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\ref\Scores.dll
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.pdb
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.csproj.AssemblyReference.cache
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.AssemblyInfoInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.AssemblyInfo.cs
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.dll
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\ref\Scores.dll
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.pdb
+D:\Programming\Repos\C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.genruntimeconfig.cache
