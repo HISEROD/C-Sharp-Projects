@@ -1,0 +1,13 @@
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+D:\Programming\Repos\C-Sharp-Projects\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb

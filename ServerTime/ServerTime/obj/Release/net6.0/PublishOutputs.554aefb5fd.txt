@@ -1,0 +1,7 @@
+D:\Programming\Repos\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net6.0\PubTmp\Out\ServerTime.exe
+D:\Programming\Repos\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Programming\Repos\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Programming\Repos\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net6.0\PubTmp\Out\ServerTime.dll
+D:\Programming\Repos\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net6.0\PubTmp\Out\ServerTime.deps.json
+D:\Programming\Repos\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net6.0\PubTmp\Out\ServerTime.runtimeconfig.json
+D:\Programming\Repos\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net6.0\PubTmp\Out\ServerTime.pdb
