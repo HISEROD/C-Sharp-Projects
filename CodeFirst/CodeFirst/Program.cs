@@ -12,6 +12,7 @@ namespace CodeFirst
     {
         static void Main(string[] args)
         {
+            DateTime lol = null;
             using (var ctx = new SchoolContext())
             {
                 var stud = new Student() { StudentName = "Bill" };
